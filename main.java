@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello, Java World!");
         System.out.println("This is my first simple project.");
         eystem.out.println("Enjoy coding!");
-	System.out.println("Welcom to arif reza!");
+	System.out.println("Welcom to arif reza! Aarzoo");
     }
 }
 
